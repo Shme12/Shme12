@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shme12
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning python as well as computer science.
-- 💞️ I’m looking to collaborate on projects.
+- 💞️ I’m looking to collaborate on python projects.
 
 <!---
 Shme12/Shme12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
