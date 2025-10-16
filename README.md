@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shme12
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning python as well as computer science.
+- 🌱 I’m currently learning Fullstack web development as well as computer science.
 - 💞️ I’m looking to collaborate on python projects.
 
 <!---
